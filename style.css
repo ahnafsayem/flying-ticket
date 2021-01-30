@@ -135,15 +135,17 @@ nav ul li a:hover, a.active{
 }
 .plus-btn{
     font-size: 18px;
-    background-color: rgb(157, 212, 157);
+    color: white;
+    background-color: rgb(38, 161, 38);
     padding: 8px 7px;
     border: none;
-    border-radius: 10px;
+    border-radius: 2px;
 }
 .minus-btn{
     font-size: 18px;
-    background-color: rgb(216, 164, 156);
+    color: white;
+    background-color: rgb(218, 85, 64);
     padding: 8px 8.5px;
     border: none;
-    border-radius: 10px;
+    border-radius: 2px;
 }
